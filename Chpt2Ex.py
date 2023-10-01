@@ -19,6 +19,29 @@ print(f"Your height is {height} ")
 
 # ## I tested the function by typing in a hieght and the fuction was sucessful
 
+# # Programming Exercises- number 5 
+
+# ##### we are asked to calculate the distance for a car will travel going 70 miles per hour 
+# ##### we need to find the distance the car will travel for diffrent amounts of hours the car will drive 
+# ##### This is assuming there are no accidents or delays when traveling
+
+# In[3]:
+
+
+# Speed of car in miles per hour 
+speed = 70
+
+# Time in hours 
+time = (input("Enter times in hours: "))
+
+# to calculate distance 
+distance = speed * time 
+
+print (f"The car travels {distance} miles in {time} hours")
+
+# I am predicting that this will allow me to type in the time in hours to find the distance 
+
+
 # In[ ]:
 
 
