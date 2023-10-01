@@ -45,4 +45,59 @@ print (f"The car travels {distance} miles in {time} hours")
 # be bellive the speed didnt enter the equation for some reason  
 
 
-# 
+# In[6]:
+
+
+# Speed of the car in miles per hour
+speed = 70
+
+# Time in hours
+time = float(input("Enter the time in hours: "))
+
+# Calculate the distance using the formula: distance = speed * time
+distance = speed * time
+
+# Display the calculated distance
+print(f"The car travels {distance} miles in {time} hours.")
+
+
+# In[7]:
+
+
+# Speed of the car in miles per hour
+speed = 70
+
+# Time in hours
+time = float(input("Enter the time in hours: "))
+
+# Calculate the distance using the formula: distance = speed * time
+distance = speed * time
+
+# Display the calculated distance
+print(f"The car travels {distance} miles in {time} hours.")
+
+
+# In[8]:
+
+
+# Speed of the car in miles per hour
+speed = 70
+
+# Time in hours
+time = float(input("Enter the time in hours: "))
+
+# Calculate the distance using the formula: distance = speed * time
+distance = speed * time
+
+# Display the calculated distance
+print(f"The car travels {distance} miles in {time} hours.")
+
+
+# ##### after looking at section 2.6 in the book I found that I needed to added the int or float fuction for the value to be read as a math equation 
+# ##### my perdiction was wrong with the speed not being added into the equation then i starteded looking in the book and quickly found my problem 
+
+# In[ ]:
+
+
+
+
