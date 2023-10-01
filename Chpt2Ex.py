@@ -25,7 +25,7 @@ print(f"Your height is {height} ")
 # ##### we need to find the distance the car will travel for diffrent amounts of hours the car will drive 
 # ##### This is assuming there are no accidents or delays when traveling
 
-# In[3]:
+# In[5]:
 
 
 # Speed of car in miles per hour 
@@ -41,9 +41,8 @@ print (f"The car travels {distance} miles in {time} hours")
 
 # I am predicting that this will allow me to type in the time in hours to find the distance 
 
-
-# In[ ]:
-
-
+# after running a test the formal didnt work 
+# be bellive the speed didnt enter the equation for some reason  
 
 
+# 
